@@ -4,9 +4,12 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 3px solid orangered;
   padding: 10px;
 }
+
+.h1 {color: chartreuse; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.p {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: coral;}
 
 .header{
   padding: 10px;
