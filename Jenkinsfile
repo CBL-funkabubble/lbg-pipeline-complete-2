@@ -1,6 +1,6 @@
 pipeline{
  environment {
-        dockerUserName="cblfunkabbubble1"
+        dockerUserName="cblfunkabubble1"
         credentialsIdGCP = "96db5f48-0539-4691-8a3c-933ad4be5b5a"
         namespace = "lbg-14"
         // e.g. lbg-1 for learner1, lbg-2 for learner2
